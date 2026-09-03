@@ -1,0 +1,501 @@
+ticket_id,customer_id,created_at,text,category,channel,priority,customer_tier,product
+TKT-100485,CUST-5945,2025-08-23 17:50:52,I need assistance with invoice incorrect amount. I've tried multiple times but no luck.,Billing,Email,High,Basic,Product B
+TKT-100271,CUST-5945,2025-08-23 19:55:21,"Hello, I'm having an issue with account locked after failed login. I've already contacted support before about this.",Account,Chat,High,Free,Service Y
+TKT-100378,CUST-8912,2025-08-24 11:44:28,Can someone help me with want to return product. This is the second time this has happened.,Refund,Chat,Medium,Basic,Product A
+TKT-100441,CUST-6167,2025-08-24 21:37:01,I'm experiencing a problem with product defective out of box. Can you please look into this?,Product,Web Form,High,Enterprise,Product B
+TKT-100444,CUST-6924,2025-08-25 05:22:15,"Hi, I need help with refund taking too long. This is affecting my work.",Refund,Phone,Medium,Premium,Product B
+TKT-100340,CUST-5135,2025-08-25 07:26:31,"Hi, I need help with features not loading properly. I've tried multiple times but no luck.",Technical,Phone,High,Enterprise,Product D
+TKT-100465,CUST-9165,2025-08-26 08:36:50,I'm writing because mobile app not syncing. This is the second time this has happened.,Technical,Phone,Critical,Free,Product C
+TKT-100470,CUST-8786,2025-08-26 10:05:42,"Hi, I need help with delivery to wrong address. Can you please look into this? I'm really frustrated about this.",Delivery,Chat,High,Free,Product B
+TKT-100125,CUST-7843,2025-08-27 01:57:58,I need assistance with subscription auto-renewed unwanted. I need this resolved soon.,Billing,Phone,Low,Enterprise,Product A
+TKT-100147,CUST-9647,2025-08-27 03:05:58,There's an issue with features not loading properly. Can you please look into this?,Technical,Web Form,Low,Premium,Product B
+TKT-100101,CUST-2035,2025-08-28 05:06:33,"Hello, I'm having an issue with product not as described. I've already contacted support before about this.",Product,Web Form,High,Enterprise,Product A
+TKT-100315,CUST-2705,2025-08-29 12:53:46,I need assistance with product not as described. I've tried multiple times but no luck.,Product,Web Form,Medium,Premium,Service Y
+TKT-100443,CUST-8490,2025-08-29 13:40:24,I'm writing because tracking number not working. I've tried multiple times but no luck.,Delivery,Email,Critical,Premium,Service Y
+TKT-100097,CUST-3877,2025-08-29 17:08:14,There's an issue with missing items from order. I need this resolved soon. I'm really disappointed about this.,Delivery,Chat,Medium,Premium,Service X
+TKT-100352,CUST-9700,2025-08-30 11:58:33,I'm experiencing a problem with mobile app not syncing. This is the second time this has happened.,Technical,Chat,Low,Free,Service Y
+TKT-100037,CUST-4228,2025-08-31 16:45:09,I'm writing because cannot reset password. Can you please look into this?,Account,Phone,Critical,Free,Service Y
+TKT-100223,CUST-1149,2025-09-01 10:35:05,There's an issue with promo code not applied. I've tried multiple times but no luck. I'm really frustrated about this.,Billing,Chat,Critical,Premium,Product A
+TKT-100464,CUST-8183,2025-09-01 15:24:47,"Hello, I'm having an issue with product defective out of box. I've already contacted support before about this. This is immediately!",Product,Email,Medium,Free,Product B
+TKT-100321,CUST-9849,2025-09-02 08:21:48,Can someone help me with wrong item received. I've already contacted support before about this.,Delivery,Phone,High,Premium,Product B
+TKT-100348,CUST-8736,2025-09-02 08:53:13,I need assistance with refund to wrong payment method. This has been happening for the past few days.,Refund,Chat,Low,Enterprise,Service X
+TKT-100123,CUST-5186,2025-09-02 13:39:38,I'm writing because error message when saving. I've tried multiple times but no luck.,Technical,Phone,High,Free,Product A
+TKT-100326,CUST-4727,2025-09-03 19:17:05,Can someone help me with restocking fee too high. This is the second time this has happened. I'm really terrible about this.,Refund,Email,Critical,Enterprise,Service X
+TKT-100164,CUST-3852,2025-09-04 09:32:22,I'm writing because product not as described. I've tried multiple times but no luck.,Product,Phone,Medium,Free,Product B
+TKT-100403,CUST-6851,2025-09-04 20:00:35,Can someone help me with refund not received. This is affecting my work.,Billing,Chat,Medium,Free,Product C
+TKT-100234,CUST-3527,2025-09-05 22:33:05,I'm writing because wrong item received. I've already contacted support before about this.,Delivery,Web Form,High,Premium,Product A
+TKT-100415,CUST-2938,2025-09-06 14:01:25,I need assistance with partial refund received. I've already contacted support before about this. This is immediately!,Refund,Chat,Critical,Premium,Service Y
+TKT-100316,CUST-6500,2025-09-06 17:07:38,I'm writing because damaged product arrived. I've already contacted support before about this. I'm really frustrated about this.,Delivery,Web Form,Low,Premium,Product B
+TKT-100371,CUST-9166,2025-09-06 21:33:03,"Hi, I need help with want to change email address. This is the second time this has happened.",Account,Web Form,High,Free,Product D
+TKT-100462,CUST-5454,2025-09-06 23:11:19,I'm writing because refund taking too long. Can you please look into this?,Refund,Phone,High,Enterprise,Product B
+TKT-100466,CUST-4148,2025-09-07 03:33:59,Can someone help me with app crashes on startup. I've tried multiple times but no luck. This is emergency!,Technical,Phone,Critical,Free,Product A
+TKT-100075,CUST-1423,2025-09-07 04:30:41,I need assistance with promo code not applied. This is affecting my work.,Billing,Email,Medium,Free,Service Y
+TKT-100071,CUST-7693,2025-09-07 07:43:57,"Hello, I'm having an issue with features not loading properly. This has been happening for the past few days.",Technical,Web Form,Critical,Premium,Product A
+TKT-100121,CUST-7785,2025-09-07 09:26:05,I need assistance with cannot delete account. I need this resolved soon.,Account,Phone,Medium,Free,Product C
+TKT-100394,CUST-9736,2025-09-07 12:44:06,I'm writing because unexpected charge on credit card. Can you please look into this?,Billing,Email,Low,Basic,Service Y
+TKT-100235,CUST-3170,2025-09-09 04:22:15,I'm experiencing a problem with tracking number not working. This has been happening for the past few days.,Delivery,Email,Medium,Enterprise,Product D
+TKT-100438,CUST-3924,2025-09-09 10:48:12,"Hi, I need help with restocking fee too high. Can you please look into this?",Refund,Web Form,High,Premium,Product B
+TKT-100001,CUST-9928,2025-09-09 13:45:58,There's an issue with app crashes on startup. I've already contacted support before about this.,Technical,Web Form,Medium,Enterprise,Service X
+TKT-100455,CUST-2702,2025-09-09 21:47:41,I'm writing because two-factor authentication issues. This has been happening for the past few days. I'm really terrible about this.,Account,Phone,Medium,Free,Service Y
+TKT-100322,CUST-1893,2025-09-09 23:21:34,Can someone help me with two-factor authentication issues. I've tried multiple times but no luck.,Account,Phone,Low,Enterprise,Product A
+TKT-100421,CUST-9246,2025-09-10 01:00:45,I'm writing because two-factor authentication issues. Can you please look into this?,Account,Email,Low,Enterprise,Service Y
+TKT-100219,CUST-7073,2025-09-10 10:59:25,I'm experiencing a problem with return label not working. I've tried multiple times but no luck.,Refund,Phone,Critical,Free,Service X
+TKT-100192,CUST-3252,2025-09-10 17:51:28,There's an issue with missing items from order. This is the second time this has happened.,Delivery,Email,Medium,Enterprise,Service Y
+TKT-100210,CUST-1797,2025-09-10 20:52:35,There's an issue with tax calculation wrong. This is the second time this has happened.,Billing,Chat,Low,Enterprise,Product D
+TKT-100366,CUST-3969,2025-09-11 09:02:36,There's an issue with quality issues with material. I need this resolved soon.,Product,Web Form,High,Free,Service Y
+TKT-100482,CUST-7997,2025-09-11 16:49:26,Can someone help me with refund to wrong payment method. I've already contacted support before about this.,Refund,Email,Medium,Basic,Service X
+TKT-100398,CUST-8170,2025-09-11 19:30:29,I'm experiencing a problem with partial refund received. This is the second time this has happened.,Refund,Web Form,Critical,Free,Product D
+TKT-100383,CUST-3636,2025-09-11 20:57:18,I'm writing because account locked after failed login. This is the second time this has happened. This is immediately!,Account,Phone,High,Basic,Product A
+TKT-100034,CUST-4728,2025-09-12 03:58:32,I'm experiencing a problem with tax calculation wrong. This is affecting my work. I'm really unacceptable about this.,Billing,Chat,Low,Basic,Product D
+TKT-100357,CUST-7230,2025-09-12 04:03:10,Can someone help me with charged twice for subscription. I need this resolved soon.,Billing,Email,High,Enterprise,Service Y
+TKT-100416,CUST-7732,2025-09-13 02:37:33,I need assistance with return label not working. I've tried multiple times but no luck.,Refund,Email,Medium,Free,Product B
+TKT-100242,CUST-1440,2025-09-13 04:59:53,I need assistance with missing parts in package. I've tried multiple times but no luck.,Product,Web Form,Medium,Enterprise,Product C
+TKT-100363,CUST-3793,2025-09-13 13:41:42,There's an issue with charged twice for subscription. I've already contacted support before about this.,Billing,Phone,High,Enterprise,Service X
+TKT-100249,CUST-4389,2025-09-13 14:25:20,I'm experiencing a problem with refund taking too long. I need this resolved soon.,Refund,Web Form,High,Enterprise,Product A
+TKT-100200,CUST-6095,2025-09-13 23:44:02,I need assistance with wrong item received. I've already contacted support before about this.,Delivery,Email,High,Premium,Service X
+TKT-100450,CUST-5663,2025-09-14 12:44:55,I need assistance with refund to wrong payment method. I've tried multiple times but no luck. I'm really awful about this.,Refund,Phone,High,Enterprise,Service Y
+TKT-100115,CUST-1842,2025-09-14 17:02:30,I'm writing because package marked delivered but not received. I need this resolved soon.,Delivery,Phone,High,Premium,Product A
+TKT-100087,CUST-8213,2025-09-15 10:23:11,I'm writing because product not as described. This is the second time this has happened.,Product,Email,Critical,Free,Service Y
+TKT-100208,CUST-9920,2025-09-15 15:08:31,I'm experiencing a problem with app crashes on startup. I need this resolved soon.,Technical,Web Form,Critical,Basic,Product B
+TKT-100346,CUST-6499,2025-09-15 17:43:17,I'm writing because missing items from order. I've tried multiple times but no luck.,Delivery,Email,Medium,Premium,Product B
+TKT-100422,CUST-8069,2025-09-16 04:01:23,I'm writing because instructions unclear or missing. I've already contacted support before about this.,Product,Web Form,High,Free,Service Y
+TKT-100295,CUST-3141,2025-09-16 17:46:57,"Hi, I need help with cannot reset password. I need this resolved soon.",Account,Chat,High,Premium,Product C
+TKT-100297,CUST-2978,2025-09-17 05:00:21,I'm experiencing a problem with product defective out of box. I need this resolved soon. This is asap!,Product,Phone,Medium,Enterprise,Product C
+TKT-100305,CUST-1319,2025-09-17 09:51:44,I'm writing because slow performance issues. Can you please look into this?,Technical,Web Form,High,Enterprise,Service X
+TKT-100428,CUST-3650,2025-09-17 13:27:31,Can someone help me with want to return product. This is the second time this has happened.,Refund,Email,Medium,Enterprise,Product C
+TKT-100102,CUST-4846,2025-09-17 20:50:21,"Hi, I need help with invoice incorrect amount. This has been happening for the past few days.",Billing,Chat,Critical,Enterprise,Product C
+TKT-100088,CUST-7512,2025-09-18 15:45:14,I'm experiencing a problem with refund taking too long. Can you please look into this? I'm really disappointed about this.,Refund,Email,High,Enterprise,Product C
+TKT-100496,CUST-2405,2025-09-18 22:56:18,There's an issue with refund not received. This is the second time this has happened. This is not working!,Billing,Email,Low,Basic,Service X
+TKT-100331,CUST-2654,2025-09-19 09:13:32,"Hi, I need help with instructions unclear or missing. This has been happening for the past few days.",Product,Phone,High,Enterprise,Product C
+TKT-100111,CUST-6327,2025-09-19 09:48:17,I need assistance with error message when saving. Can you please look into this?,Technical,Web Form,High,Enterprise,Service X
+TKT-100226,CUST-7502,2025-09-19 12:14:23,I'm experiencing a problem with error message when saving. This is the second time this has happened.,Technical,Email,High,Enterprise,Product D
+TKT-100069,CUST-4697,2025-09-19 13:32:10,I'm writing because product not as described. I need this resolved soon. This is emergency!,Product,Web Form,Critical,Enterprise,Product C
+TKT-100343,CUST-7620,2025-09-19 16:41:50,I'm writing because app crashes on startup. This is the second time this has happened.,Technical,Phone,Medium,Free,Service Y
+TKT-100055,CUST-8619,2025-09-20 03:17:40,I need assistance with API returning errors. I've tried multiple times but no luck.,Technical,Phone,High,Basic,Service X
+TKT-100048,CUST-8633,2025-09-20 05:07:17,I'm experiencing a problem with cannot login to account. Can you please look into this?,Technical,Web Form,Low,Basic,Product D
+TKT-100358,CUST-2654,2025-09-20 06:30:42,I'm experiencing a problem with restocking fee too high. I need this resolved soon.,Refund,Phone,Medium,Enterprise,Product A
+TKT-100487,CUST-5198,2025-09-20 19:23:07,"Hello, I'm having an issue with damaged product arrived. I've tried multiple times but no luck.",Delivery,Phone,Low,Enterprise,Service X
+TKT-100399,CUST-9941,2025-09-20 20:19:12,I'm writing because features not loading properly. This is the second time this has happened.,Technical,Phone,Medium,Premium,Service Y
+TKT-100471,CUST-1983,2025-09-21 02:15:36,I'm writing because subscription auto-renewed unwanted. I've already contacted support before about this.,Billing,Email,High,Basic,Service Y
+TKT-100388,CUST-1654,2025-09-21 16:12:55,There's an issue with package not delivered on time. I've tried multiple times but no luck.,Delivery,Chat,High,Free,Service Y
+TKT-100405,CUST-8145,2025-09-23 01:31:31,There's an issue with wrong item received. I've already contacted support before about this.,Delivery,Phone,High,Basic,Service Y
+TKT-100499,CUST-1869,2025-09-23 08:47:00,I need assistance with wrong item received. This is affecting my work.,Delivery,Web Form,Low,Free,Product D
+TKT-100387,CUST-1665,2025-09-24 15:28:57,"Hi, I need help with want to return product. I need this resolved soon. This is emergency!",Refund,Web Form,High,Premium,Product B
+TKT-100036,CUST-8149,2025-09-24 20:24:56,I'm writing because package not delivered on time. This is affecting my work. This is broken!,Delivery,Email,Critical,Basic,Product C
+TKT-100410,CUST-8921,2025-09-24 22:54:35,"Hello, I'm having an issue with warranty claim process. I've already contacted support before about this.",Product,Phone,Low,Basic,Product D
+TKT-100214,CUST-8586,2025-09-25 19:21:35,There's an issue with quality issues with material. I've tried multiple times but no luck. This is not working!,Product,Email,Critical,Enterprise,Service X
+TKT-100402,CUST-1891,2025-09-25 19:51:04,I'm writing because replacement part needed. Can you please look into this? This is broken!,Product,Web Form,Low,Premium,Service Y
+TKT-100162,CUST-5264,2025-09-26 04:43:49,"Hi, I need help with quality issues with material. This is affecting my work.",Product,Web Form,Medium,Premium,Service Y
+TKT-100195,CUST-2758,2025-09-26 05:52:08,"Hi, I need help with partial refund received. This is affecting my work.",Refund,Phone,High,Enterprise,Service Y
+TKT-100023,CUST-6138,2025-09-26 21:21:41,I need assistance with app crashes on startup. This has been happening for the past few days.,Technical,Email,Low,Enterprise,Service X
+TKT-100447,CUST-7906,2025-09-27 23:59:44,"Hi, I need help with refund taking too long. I've tried multiple times but no luck.",Refund,Web Form,Medium,Premium,Product D
+TKT-100254,CUST-6134,2025-09-28 04:21:48,Can someone help me with invoice incorrect amount. Can you please look into this?,Billing,Web Form,Critical,Free,Product C
+TKT-100129,CUST-3902,2025-09-28 05:13:00,There's an issue with missing parts in package. This has been happening for the past few days.,Product,Web Form,Critical,Enterprise,Service Y
+TKT-100057,CUST-5941,2025-09-28 09:47:14,"Hello, I'm having an issue with warranty claim process. This has been happening for the past few days.",Product,Email,Low,Premium,Service X
+TKT-100180,CUST-3245,2025-09-28 12:55:57,"Hi, I need help with quality issues with material. This has been happening for the past few days.",Product,Phone,Critical,Enterprise,Product B
+TKT-100311,CUST-6301,2025-09-28 23:19:43,I'm writing because mobile app not syncing. This is the second time this has happened.,Technical,Email,Low,Basic,Service X
+TKT-100440,CUST-2747,2025-09-29 22:17:11,I'm experiencing a problem with slow performance issues. I've tried multiple times but no luck.,Technical,Email,Low,Enterprise,Service X
+TKT-100186,CUST-3837,2025-09-30 00:43:07,Can someone help me with missing items from order. This is affecting my work.,Delivery,Web Form,High,Premium,Service Y
+TKT-100498,CUST-3315,2025-09-30 07:55:26,I need assistance with missing parts in package. I need this resolved soon. I'm really disappointed about this.,Product,Email,Critical,Free,Product C
+TKT-100171,CUST-9938,2025-09-30 15:41:41,"Hi, I need help with quality issues with material. I need this resolved soon.",Product,Phone,High,Enterprise,Product B
+TKT-100229,CUST-5593,2025-09-30 18:19:27,"Hi, I need help with refund to wrong payment method. This has been happening for the past few days.",Refund,Email,Medium,Premium,Product A
+TKT-100022,CUST-8454,2025-10-01 04:23:27,I'm experiencing a problem with cannot reset password. This is the second time this has happened. This is asap!,Account,Phone,Critical,Enterprise,Product B
+TKT-100205,CUST-9866,2025-10-01 22:20:10,There's an issue with charged twice for subscription. This has been happening for the past few days.,Billing,Email,Low,Enterprise,Product A
+TKT-100201,CUST-9998,2025-10-02 11:04:17,I'm experiencing a problem with API returning errors. I need this resolved soon. I'm really terrible about this.,Technical,Web Form,Medium,Basic,Service Y
+TKT-100063,CUST-8753,2025-10-02 14:17:57,I need assistance with refund taking too long. This is affecting my work.,Refund,Phone,Critical,Premium,Product C
+TKT-100247,CUST-4621,2025-10-02 16:02:50,There's an issue with refund to wrong payment method. Can you please look into this?,Refund,Web Form,High,Enterprise,Product D
+TKT-100082,CUST-3522,2025-10-03 03:42:34,There's an issue with tax calculation wrong. This is the second time this has happened.,Billing,Web Form,High,Premium,Product D
+TKT-100260,CUST-9115,2025-10-03 04:19:34,I need assistance with wrong item received. I've already contacted support before about this.,Delivery,Email,Low,Premium,Service X
+TKT-100459,CUST-3551,2025-10-03 14:11:51,Can someone help me with tax calculation wrong. This is affecting my work.,Billing,Phone,Low,Free,Service X
+TKT-100221,CUST-9005,2025-10-04 02:40:59,I'm experiencing a problem with replacement part needed. This is affecting my work. I'm really awful about this.,Product,Web Form,Critical,Basic,Service Y
+TKT-100072,CUST-4824,2025-10-04 08:58:48,Can someone help me with partial refund received. This has been happening for the past few days.,Refund,Phone,Medium,Enterprise,Product A
+TKT-100411,CUST-7358,2025-10-04 10:09:44,I'm writing because damaged product arrived. This is affecting my work. I'm really terrible about this.,Delivery,Web Form,Critical,Free,Product A
+TKT-100211,CUST-6224,2025-10-04 21:20:54,I'm writing because app crashes on startup. I've already contacted support before about this. I'm really angry about this.,Technical,Phone,Medium,Premium,Product B
+TKT-100309,CUST-1462,2025-10-05 06:54:13,I'm experiencing a problem with package marked delivered but not received. Can you please look into this?,Delivery,Phone,Medium,Basic,Product D
+TKT-100432,CUST-7474,2025-10-05 18:35:28,I'm experiencing a problem with unexpected charge on credit card. I've already contacted support before about this. This is asap!,Billing,Web Form,Medium,Free,Service Y
+TKT-100231,CUST-3292,2025-10-05 23:50:33,I'm experiencing a problem with cannot delete account. I need this resolved soon.,Account,Email,High,Free,Product A
+TKT-100014,CUST-3060,2025-10-06 01:34:04,I'm writing because product defective out of box. Can you please look into this? This is urgent!,Product,Chat,Critical,Basic,Product C
+TKT-100025,CUST-9565,2025-10-07 00:39:10,Can someone help me with product defective out of box. I've already contacted support before about this.,Product,Phone,High,Basic,Service Y
+TKT-100317,CUST-8179,2025-10-07 15:01:09,"Hi, I need help with subscription auto-renewed unwanted. I need this resolved soon. This is urgent!",Billing,Web Form,Medium,Enterprise,Product D
+TKT-100281,CUST-5693,2025-10-09 21:38:35,Can someone help me with charged twice for subscription. Can you please look into this?,Billing,Web Form,Critical,Enterprise,Product A
+TKT-100362,CUST-5760,2025-10-10 06:01:22,I'm writing because payment method declined. This has been happening for the past few days.,Billing,Phone,High,Enterprise,Service Y
+TKT-100029,CUST-5325,2025-10-10 07:29:43,I'm experiencing a problem with unexpected charge on credit card. I've tried multiple times but no luck. I'm really awful about this.,Billing,Web Form,High,Free,Product A
+TKT-100156,CUST-6262,2025-10-10 17:14:10,I need assistance with promo code not applied. This is affecting my work. I'm really angry about this.,Billing,Email,Low,Premium,Service Y
+TKT-100265,CUST-7743,2025-10-10 19:55:29,"Hello, I'm having an issue with warranty claim process. This is the second time this has happened.",Product,Email,High,Basic,Service Y
+TKT-100008,CUST-5339,2025-10-10 21:38:35,Can someone help me with mobile app not syncing. I've tried multiple times but no luck. This is broken!,Technical,Chat,Medium,Premium,Service Y
+TKT-100364,CUST-2865,2025-10-11 00:05:57,I'm experiencing a problem with want to return product. I've tried multiple times but no luck.,Refund,Web Form,Critical,Enterprise,Product C
+TKT-100238,CUST-2260,2025-10-11 00:31:12,Can someone help me with cannot login to account. This is the second time this has happened. This is immediately!,Technical,Phone,High,Basic,Service Y
+TKT-100445,CUST-4449,2025-10-11 04:50:46,Can someone help me with product not as described. I need this resolved soon.,Product,Web Form,High,Premium,Product D
+TKT-100007,CUST-1916,2025-10-11 07:10:38,There's an issue with restocking fee too high. This is affecting my work.,Refund,Chat,Low,Premium,Product D
+TKT-100144,CUST-8391,2025-10-11 19:27:40,"Hi, I need help with missing parts in package. I've tried multiple times but no luck.",Product,Phone,Low,Enterprise,Product A
+TKT-100002,CUST-3547,2025-10-12 18:47:11,I'm experiencing a problem with unexpected charge on credit card. This is affecting my work.,Billing,Chat,High,Free,Product A
+TKT-100446,CUST-2636,2025-10-13 01:00:08,There's an issue with features not loading properly. I've tried multiple times but no luck.,Technical,Phone,Medium,Enterprise,Product D
+TKT-100179,CUST-7453,2025-10-13 01:23:45,"Hello, I'm having an issue with warranty claim process. This has been happening for the past few days.",Product,Phone,High,Premium,Product B
+TKT-100047,CUST-3267,2025-10-14 03:20:53,I need assistance with damaged product arrived. This has been happening for the past few days.,Delivery,Chat,Medium,Enterprise,Service Y
+TKT-100040,CUST-8618,2025-10-14 08:28:11,There's an issue with want to change email address. This is affecting my work.,Account,Web Form,Critical,Basic,Service X
+TKT-100206,CUST-7887,2025-10-14 09:14:04,There's an issue with features not loading properly. I've already contacted support before about this.,Technical,Phone,Critical,Enterprise,Product D
+TKT-100492,CUST-9980,2025-10-14 20:51:55,There's an issue with account locked after failed login. This has been happening for the past few days. This is emergency!,Account,Web Form,High,Free,Product D
+TKT-100453,CUST-6950,2025-10-15 03:39:43,I'm experiencing a problem with delivery to wrong address. I need this resolved soon.,Delivery,Web Form,Critical,Basic,Product B
+TKT-100091,CUST-3950,2025-10-15 12:21:05,There's an issue with tracking number not working. This is the second time this has happened. I'm really terrible about this.,Delivery,Chat,Medium,Free,Service X
+TKT-100323,CUST-1421,2025-10-15 17:27:22,"Hello, I'm having an issue with restocking fee too high. This has been happening for the past few days.",Refund,Chat,Medium,Premium,Product A
+TKT-100319,CUST-3787,2025-10-15 19:00:28,"Hi, I need help with damaged product arrived. This is affecting my work.",Delivery,Web Form,Medium,Free,Service X
+TKT-100157,CUST-8272,2025-10-15 22:10:02,"Hello, I'm having an issue with two-factor authentication issues. I've already contacted support before about this.",Account,Phone,Critical,Free,Service Y
+TKT-100354,CUST-6535,2025-10-16 09:14:11,I need assistance with tracking number not working. Can you please look into this?,Delivery,Web Form,Medium,Premium,Product D
+TKT-100349,CUST-3346,2025-10-16 09:53:58,I need assistance with unexpected charge on credit card. I need this resolved soon. This is asap!,Billing,Phone,Medium,Free,Product D
+TKT-100188,CUST-8861,2025-10-16 10:31:08,Can someone help me with package marked delivered but not received. This is affecting my work. This is broken!,Delivery,Phone,High,Premium,Product A
+TKT-100448,CUST-3676,2025-10-16 17:09:01,Can someone help me with replacement part needed. This has been happening for the past few days.,Product,Email,Medium,Premium,Product D
+TKT-100148,CUST-8489,2025-10-16 21:58:33,I'm writing because refund not received. Can you please look into this?,Billing,Email,Low,Enterprise,Service X
+TKT-100313,CUST-8982,2025-10-17 00:37:41,Can someone help me with features not loading properly. This is the second time this has happened.,Technical,Phone,Medium,Premium,Product B
+TKT-100256,CUST-7852,2025-10-17 16:14:39,I need assistance with mobile app not syncing. I need this resolved soon.,Technical,Chat,Critical,Enterprise,Product B
+TKT-100138,CUST-4711,2025-10-18 07:18:14,Can someone help me with mobile app not syncing. I've tried multiple times but no luck.,Technical,Chat,Medium,Free,Product C
+TKT-100336,CUST-4158,2025-10-18 17:03:16,"Hi, I need help with quality issues with material. I've tried multiple times but no luck. I'm really terrible about this.",Product,Chat,Low,Basic,Product A
+TKT-100120,CUST-1861,2025-10-18 19:16:34,I need assistance with package marked delivered but not received. This has been happening for the past few days.,Delivery,Chat,Medium,Free,Service Y
+TKT-100275,CUST-3181,2025-10-19 02:40:51,I'm writing because wrong item received. This is the second time this has happened.,Delivery,Chat,Low,Free,Service X
+TKT-100258,CUST-4196,2025-10-19 07:59:18,Can someone help me with two-factor authentication issues. I've tried multiple times but no luck. This is urgent!,Account,Web Form,Critical,Enterprise,Service Y
+TKT-100079,CUST-9889,2025-10-20 21:32:43,"Hi, I need help with want to change email address. I've already contacted support before about this.",Account,Web Form,Critical,Free,Product B
+TKT-100484,CUST-5162,2025-10-20 22:18:38,I need assistance with slow performance issues. I've already contacted support before about this.,Technical,Phone,Critical,Enterprise,Product D
+TKT-100268,CUST-6869,2025-10-21 14:53:32,Can someone help me with payment method declined. I've already contacted support before about this.,Billing,Email,Critical,Basic,Product D
+TKT-100053,CUST-7906,2025-10-21 15:09:58,Can someone help me with email not receiving notifications. This is affecting my work.,Account,Phone,Low,Enterprise,Product A
+TKT-100198,CUST-1111,2025-10-21 17:38:45,I'm experiencing a problem with cannot delete account. I've tried multiple times but no luck. I'm really unacceptable about this.,Account,Phone,Critical,Basic,Product D
+TKT-100203,CUST-9361,2025-10-21 18:28:15,Can someone help me with quality issues with material. This has been happening for the past few days. This is emergency!,Product,Web Form,Low,Enterprise,Product B
+TKT-100035,CUST-9785,2025-10-21 19:05:39,I need assistance with invoice incorrect amount. I need this resolved soon.,Billing,Phone,Low,Free,Product C
+TKT-100391,CUST-1144,2025-10-22 10:44:22,Can someone help me with damaged product arrived. Can you please look into this? I'm really terrible about this.,Delivery,Email,High,Enterprise,Product B
+TKT-100350,CUST-5481,2025-10-22 13:57:42,"Hi, I need help with mobile app not syncing. I need this resolved soon.",Technical,Chat,Medium,Basic,Product D
+TKT-100113,CUST-7992,2025-10-23 17:11:14,"Hi, I need help with profile information not updating. This is affecting my work.",Account,Phone,High,Premium,Product B
+TKT-100020,CUST-5563,2025-10-23 18:47:23,Can someone help me with refund not received. I've tried multiple times but no luck. I'm really angry about this.,Billing,Web Form,Medium,Free,Product D
+TKT-100084,CUST-5891,2025-10-23 21:15:49,I'm experiencing a problem with product not as described. I've already contacted support before about this.,Product,Web Form,Medium,Enterprise,Service X
+TKT-100375,CUST-2741,2025-10-24 03:39:55,I'm experiencing a problem with partial refund received. I've already contacted support before about this.,Refund,Email,Medium,Enterprise,Product B
+TKT-100274,CUST-4751,2025-10-24 13:14:34,Can someone help me with promo code not applied. This has been happening for the past few days.,Billing,Web Form,Low,Free,Product A
+TKT-100369,CUST-1894,2025-10-24 22:38:25,I'm writing because restocking fee too high. This is the second time this has happened.,Refund,Email,Medium,Enterprise,Product D
+TKT-100474,CUST-9702,2025-10-25 06:54:50,"Hello, I'm having an issue with return label not working. This has been happening for the past few days. I'm really terrible about this.",Refund,Chat,Critical,Premium,Product C
+TKT-100495,CUST-5994,2025-10-25 09:41:33,"Hi, I need help with damaged product arrived. This is the second time this has happened.",Delivery,Chat,High,Enterprise,Service X
+TKT-100255,CUST-2388,2025-10-26 01:34:39,I need assistance with two-factor authentication issues. Can you please look into this? I'm really disappointed about this.,Account,Chat,High,Free,Product B
+TKT-100457,CUST-5463,2025-10-26 22:33:24,I'm writing because package marked delivered but not received. Can you please look into this?,Delivery,Web Form,Medium,Basic,Service X
+TKT-100108,CUST-9619,2025-10-27 04:36:33,There's an issue with mobile app not syncing. I need this resolved soon. This is critical!,Technical,Email,Low,Enterprise,Product D
+TKT-100355,CUST-1313,2025-10-27 08:57:59,I'm writing because features not loading properly. I need this resolved soon.,Technical,Chat,Medium,Basic,Product B
+TKT-100272,CUST-1848,2025-10-27 14:05:00,There's an issue with subscription auto-renewed unwanted. I've tried multiple times but no luck.,Billing,Web Form,High,Basic,Product D
+TKT-100066,CUST-1745,2025-10-27 16:00:32,"Hello, I'm having an issue with package not delivered on time. This is affecting my work.",Delivery,Email,High,Basic,Service Y
+TKT-100032,CUST-7658,2025-10-28 08:17:50,I'm experiencing a problem with subscription auto-renewed unwanted. This is the second time this has happened. This is urgent!,Billing,Chat,Medium,Basic,Product B
+TKT-100178,CUST-5728,2025-10-28 13:09:43,"Hello, I'm having an issue with email not receiving notifications. This is affecting my work. This is emergency!",Account,Email,Critical,Enterprise,Service X
+TKT-100105,CUST-8450,2025-10-28 19:53:23,I'm writing because partial refund received. This is the second time this has happened. This is urgent!,Refund,Email,Medium,Free,Product A
+TKT-100291,CUST-4974,2025-10-29 02:44:03,There's an issue with delivery to wrong address. Can you please look into this?,Delivery,Web Form,High,Enterprise,Product B
+TKT-100207,CUST-6697,2025-10-30 07:47:29,"Hello, I'm having an issue with restocking fee too high. I've already contacted support before about this.",Refund,Email,Medium,Enterprise,Service X
+TKT-100137,CUST-2531,2025-10-30 12:15:26,There's an issue with package marked delivered but not received. Can you please look into this? I'm really awful about this.,Delivery,Web Form,High,Free,Product C
+TKT-100216,CUST-4555,2025-10-30 14:22:06,I'm writing because instructions unclear or missing. Can you please look into this? This is not working!,Product,Web Form,Medium,Premium,Product C
+TKT-100473,CUST-5828,2025-10-30 16:57:52,Can someone help me with refund taking too long. Can you please look into this? This is broken!,Refund,Web Form,Medium,Basic,Service X
+TKT-100413,CUST-5121,2025-10-30 20:12:09,"Hi, I need help with warranty claim process. Can you please look into this?",Product,Web Form,Medium,Enterprise,Product C
+TKT-100003,CUST-1711,2025-10-31 02:17:19,I'm experiencing a problem with package marked delivered but not received. This is the second time this has happened.,Delivery,Web Form,Low,Enterprise,Product A
+TKT-100437,CUST-9462,2025-10-31 14:09:04,Can someone help me with slow performance issues. This is affecting my work.,Technical,Email,High,Basic,Product C
+TKT-100288,CUST-7870,2025-10-31 15:28:26,I'm writing because features not loading properly. This has been happening for the past few days.,Technical,Chat,High,Basic,Product D
+TKT-100332,CUST-5512,2025-10-31 15:45:01,"Hi, I need help with two-factor authentication issues. I've tried multiple times but no luck.",Account,Web Form,Medium,Enterprise,Product A
+TKT-100339,CUST-4387,2025-11-01 06:57:59,There's an issue with slow performance issues. I've tried multiple times but no luck.,Technical,Phone,Critical,Free,Service Y
+TKT-100280,CUST-8717,2025-11-01 08:08:38,There's an issue with quality issues with material. I've tried multiple times but no luck.,Product,Email,Low,Free,Product A
+TKT-100379,CUST-7859,2025-11-01 10:35:41,I need assistance with instructions unclear or missing. I need this resolved soon.,Product,Chat,High,Enterprise,Product C
+TKT-100237,CUST-7237,2025-11-01 12:17:48,"Hello, I'm having an issue with refund not received. I've already contacted support before about this.",Billing,Chat,Medium,Premium,Product C
+TKT-100051,CUST-8657,2025-11-01 16:51:57,There's an issue with restocking fee too high. I've tried multiple times but no luck.,Refund,Chat,Low,Enterprise,Service X
+TKT-100049,CUST-1096,2025-11-01 19:32:33,Can someone help me with warranty claim process. I need this resolved soon. I'm really terrible about this.,Product,Phone,High,Enterprise,Product D
+TKT-100303,CUST-4517,2025-11-02 19:23:49,"Hello, I'm having an issue with promo code not applied. This is affecting my work.",Billing,Chat,High,Premium,Product D
+TKT-100333,CUST-6535,2025-11-02 22:49:38,I'm experiencing a problem with missing items from order. This has been happening for the past few days. I'm really disappointed about this.,Delivery,Phone,High,Premium,Product D
+TKT-100145,CUST-4678,2025-11-03 01:41:01,"Hi, I need help with wrong item received. This is affecting my work.",Delivery,Email,High,Free,Service Y
+TKT-100127,CUST-4630,2025-11-03 18:56:45,There's an issue with promo code not applied. This is affecting my work.,Billing,Phone,Medium,Free,Service X
+TKT-100483,CUST-6319,2025-11-03 23:43:46,I'm experiencing a problem with missing items from order. This is affecting my work. I'm really unacceptable about this.,Delivery,Phone,Critical,Enterprise,Service Y
+TKT-100104,CUST-8285,2025-11-05 04:03:48,"Hello, I'm having an issue with package not delivered on time. I need this resolved soon.",Delivery,Chat,High,Free,Service Y
+TKT-100360,CUST-8875,2025-11-05 11:08:58,"Hello, I'm having an issue with app crashes on startup. I've already contacted support before about this.",Technical,Phone,Medium,Free,Product A
+TKT-100267,CUST-7600,2025-11-06 06:27:18,I'm writing because cannot reset password. This has been happening for the past few days.,Account,Phone,High,Enterprise,Product D
+TKT-100335,CUST-8937,2025-11-06 17:27:39,Can someone help me with want to return product. I've already contacted support before about this. This is not working!,Refund,Phone,Low,Basic,Product A
+TKT-100244,CUST-7566,2025-11-07 20:54:55,I need assistance with cannot reset password. I need this resolved soon.,Account,Web Form,Low,Premium,Service Y
+TKT-100426,CUST-5514,2025-11-08 09:37:55,I'm experiencing a problem with product not as described. Can you please look into this? I'm really terrible about this.,Product,Web Form,Medium,Enterprise,Service X
+TKT-100058,CUST-7882,2025-11-08 19:35:44,I'm experiencing a problem with package not delivered on time. This has been happening for the past few days.,Delivery,Web Form,Low,Enterprise,Product C
+TKT-100122,CUST-6053,2025-11-09 02:13:46,Can someone help me with missing items from order. Can you please look into this?,Delivery,Email,Medium,Enterprise,Service X
+TKT-100240,CUST-6147,2025-11-09 05:15:53,"Hello, I'm having an issue with refund to wrong payment method. I need this resolved soon. This is broken!",Refund,Chat,Critical,Premium,Product C
+TKT-100077,CUST-6260,2025-11-10 04:01:33,Can someone help me with cannot reset password. This is affecting my work.,Account,Email,Medium,Premium,Product D
+TKT-100232,CUST-7499,2025-11-10 09:13:26,I need assistance with subscription auto-renewed unwanted. Can you please look into this?,Billing,Phone,Low,Premium,Product D
+TKT-100081,CUST-3594,2025-11-10 13:39:51,I'm writing because return label not working. I've tried multiple times but no luck. I'm really terrible about this.,Refund,Phone,Low,Enterprise,Product A
+TKT-100250,CUST-2885,2025-11-10 13:52:46,I'm experiencing a problem with return label not working. This has been happening for the past few days.,Refund,Email,High,Free,Service Y
+TKT-100028,CUST-9666,2025-11-10 13:57:36,I'm writing because warranty claim process. I've already contacted support before about this.,Product,Email,High,Free,Product B
+TKT-100185,CUST-9221,2025-11-11 02:17:21,"Hello, I'm having an issue with account locked after failed login. I need this resolved soon.",Account,Web Form,Low,Basic,Service X
+TKT-100131,CUST-8565,2025-11-11 07:20:29,"Hi, I need help with package marked delivered but not received. This is affecting my work. This is emergency!",Delivery,Web Form,Low,Free,Product C
+TKT-100451,CUST-3373,2025-11-12 03:44:26,Can someone help me with promo code not applied. I've already contacted support before about this.,Billing,Chat,High,Enterprise,Service Y
+TKT-100337,CUST-3029,2025-11-13 20:51:39,I need assistance with missing items from order. I need this resolved soon. This is asap!,Delivery,Email,Medium,Premium,Product D
+TKT-100377,CUST-3018,2025-11-13 23:26:29,I'm writing because mobile app not syncing. I've already contacted support before about this. This is broken!,Technical,Web Form,Critical,Basic,Product D
+TKT-100027,CUST-2127,2025-11-14 04:47:46,"Hello, I'm having an issue with product defective out of box. This is affecting my work. This is immediately!",Product,Chat,High,Premium,Product B
+TKT-100197,CUST-4164,2025-11-14 07:30:47,I need assistance with missing items from order. I've already contacted support before about this. I'm really disappointed about this.,Delivery,Chat,Critical,Enterprise,Service X
+TKT-100209,CUST-7868,2025-11-14 14:54:14,"Hi, I need help with error message when saving. This is the second time this has happened. I'm really frustrated about this.",Technical,Email,Medium,Basic,Product A
+TKT-100298,CUST-1660,2025-11-15 02:39:36,There's an issue with payment method declined. Can you please look into this? I'm really awful about this.,Billing,Chat,High,Basic,Product A
+TKT-100409,CUST-4913,2025-11-15 08:30:41,I need assistance with product defective out of box. This has been happening for the past few days.,Product,Chat,Medium,Enterprise,Product B
+TKT-100167,CUST-3981,2025-11-15 13:24:07,There's an issue with product not as described. Can you please look into this? I'm really terrible about this.,Product,Chat,Critical,Free,Product A
+TKT-100176,CUST-4524,2025-11-15 17:38:38,Can someone help me with tracking number not working. I've tried multiple times but no luck. I'm really terrible about this.,Delivery,Phone,Low,Free,Product C
+TKT-100041,CUST-6491,2025-11-16 21:10:01,I'm experiencing a problem with refund taking too long. Can you please look into this?,Refund,Email,Medium,Premium,Product B
+TKT-100324,CUST-5341,2025-11-16 22:49:40,Can someone help me with invoice incorrect amount. I need this resolved soon.,Billing,Email,Critical,Basic,Product C
+TKT-100382,CUST-9747,2025-11-18 04:12:02,There's an issue with warranty claim process. I've already contacted support before about this.,Product,Phone,Critical,Free,Service X
+TKT-100143,CUST-9452,2025-11-18 05:09:15,There's an issue with delivery to wrong address. This is the second time this has happened.,Delivery,Email,High,Free,Product B
+TKT-100065,CUST-5636,2025-11-18 20:44:26,I need assistance with refund to wrong payment method. Can you please look into this?,Refund,Email,Medium,Premium,Product B
+TKT-100085,CUST-6272,2025-11-18 21:21:27,Can someone help me with delivery to wrong address. I need this resolved soon.,Delivery,Chat,Medium,Enterprise,Product B
+TKT-100478,CUST-9026,2025-11-19 01:48:08,I'm writing because charged twice for subscription. I need this resolved soon.,Billing,Phone,Low,Premium,Product B
+TKT-100257,CUST-3733,2025-11-19 07:25:04,"Hello, I'm having an issue with warranty claim process. Can you please look into this?",Product,Web Form,High,Basic,Product B
+TKT-100233,CUST-7227,2025-11-20 00:24:34,Can someone help me with delivery to wrong address. I've tried multiple times but no luck.,Delivery,Email,High,Basic,Service Y
+TKT-100259,CUST-1505,2025-11-20 05:15:30,"Hi, I need help with return label not working. Can you please look into this?",Refund,Chat,High,Free,Product C
+TKT-100177,CUST-2761,2025-11-20 18:56:44,I need assistance with restocking fee too high. This has been happening for the past few days.,Refund,Web Form,Medium,Premium,Service Y
+TKT-100344,CUST-1578,2025-11-21 05:39:12,Can someone help me with damaged product arrived. I need this resolved soon.,Delivery,Chat,High,Basic,Service Y
+TKT-100124,CUST-6802,2025-11-21 05:42:26,I need assistance with account locked after failed login. Can you please look into this? I'm really angry about this.,Account,Email,Critical,Free,Product D
+TKT-100098,CUST-6549,2025-11-22 00:45:21,I'm writing because package marked delivered but not received. This is affecting my work. I'm really unacceptable about this.,Delivery,Email,Critical,Free,Product B
+TKT-100493,CUST-4245,2025-11-22 00:52:42,Can someone help me with refund taking too long. Can you please look into this?,Refund,Web Form,Critical,Basic,Service X
+TKT-100385,CUST-7349,2025-11-23 16:11:13,"Hi, I need help with partial refund received. I need this resolved soon.",Refund,Web Form,High,Free,Product A
+TKT-100359,CUST-4272,2025-11-23 19:02:56,"Hello, I'm having an issue with product defective out of box. Can you please look into this? I'm really unacceptable about this.",Product,Phone,Medium,Premium,Service Y
+TKT-100204,CUST-1356,2025-11-24 02:14:00,I'm experiencing a problem with two-factor authentication issues. I've already contacted support before about this. This is not working!,Account,Web Form,High,Free,Service Y
+TKT-100418,CUST-5644,2025-11-24 16:53:25,There's an issue with two-factor authentication issues. This has been happening for the past few days.,Account,Email,Medium,Enterprise,Service X
+TKT-100044,CUST-3184,2025-11-24 22:34:48,"Hi, I need help with refund not received. I need this resolved soon.",Billing,Web Form,High,Enterprise,Service X
+TKT-100168,CUST-5653,2025-11-24 23:12:14,I'm experiencing a problem with wrong item received. Can you please look into this? I'm really angry about this.,Delivery,Email,High,Basic,Service Y
+TKT-100080,CUST-1845,2025-11-25 00:39:39,Can someone help me with replacement part needed. This is the second time this has happened.,Product,Chat,High,Basic,Product C
+TKT-100390,CUST-2506,2025-11-25 10:01:18,I need assistance with missing parts in package. I need this resolved soon.,Product,Phone,Medium,Basic,Service Y
+TKT-100425,CUST-6175,2025-11-25 18:22:41,"Hello, I'm having an issue with product defective out of box. I've already contacted support before about this.",Product,Web Form,High,Free,Product B
+TKT-100184,CUST-4968,2025-11-26 01:41:11,Can someone help me with refund to wrong payment method. I've tried multiple times but no luck.,Refund,Email,Low,Basic,Product A
+TKT-100015,CUST-4295,2025-11-26 16:33:12,I need assistance with quality issues with material. This is the second time this has happened.,Product,Phone,Critical,Premium,Product D
+TKT-100225,CUST-8054,2025-11-27 00:05:13,"Hi, I need help with delivery to wrong address. Can you please look into this?",Delivery,Chat,Low,Free,Service X
+TKT-100423,CUST-2600,2025-11-27 01:48:36,Can someone help me with API returning errors. This is affecting my work.,Technical,Web Form,Medium,Premium,Product D
+TKT-100215,CUST-7079,2025-11-27 02:34:02,Can someone help me with account locked after failed login. This is the second time this has happened. This is urgent!,Account,Email,Medium,Free,Product C
+TKT-100345,CUST-3785,2025-11-27 22:37:34,I'm experiencing a problem with cannot delete account. This is the second time this has happened.,Account,Chat,High,Free,Product D
+TKT-100149,CUST-5772,2025-11-28 04:45:18,There's an issue with refund to wrong payment method. I've tried multiple times but no luck.,Refund,Web Form,Low,Premium,Product B
+TKT-100472,CUST-6690,2025-11-28 06:02:56,I'm experiencing a problem with unexpected charge on credit card. Can you please look into this?,Billing,Web Form,Medium,Free,Service Y
+TKT-100100,CUST-7242,2025-11-28 06:59:42,There's an issue with email not receiving notifications. This is affecting my work.,Account,Phone,Low,Basic,Product D
+TKT-100050,CUST-4595,2025-11-28 14:06:56,"Hello, I'm having an issue with refund to wrong payment method. I need this resolved soon.",Refund,Phone,Critical,Enterprise,Product A
+TKT-100018,CUST-8749,2025-11-28 18:29:35,"Hello, I'm having an issue with refund to wrong payment method. This is the second time this has happened.",Refund,Web Form,Medium,Free,Product A
+TKT-100013,CUST-2832,2025-11-28 19:07:12,Can someone help me with product defective out of box. This has been happening for the past few days.,Product,Phone,High,Basic,Product A
+TKT-100475,CUST-4039,2025-11-29 04:44:25,I need assistance with cannot reset password. I need this resolved soon.,Account,Email,High,Basic,Product C
+TKT-100310,CUST-9625,2025-11-29 06:58:51,"Hello, I'm having an issue with API returning errors. This has been happening for the past few days. This is emergency!",Technical,Web Form,Low,Premium,Service X
+TKT-100196,CUST-4159,2025-11-29 12:03:38,Can someone help me with account locked after failed login. This is affecting my work.,Account,Email,High,Basic,Service Y
+TKT-100073,CUST-2169,2025-11-29 17:30:43,I'm writing because refund taking too long. I've tried multiple times but no luck.,Refund,Email,Medium,Premium,Service X
+TKT-100408,CUST-6993,2025-11-30 23:53:19,I'm writing because instructions unclear or missing. I've tried multiple times but no luck.,Product,Web Form,Medium,Premium,Product B
+TKT-100004,CUST-4150,2025-12-01 01:49:05,I'm experiencing a problem with refund to wrong payment method. Can you please look into this?,Refund,Email,Low,Basic,Product C
+TKT-100218,CUST-6053,2025-12-01 01:59:06,There's an issue with tracking number not working. This is affecting my work.,Delivery,Phone,High,Enterprise,Product D
+TKT-100228,CUST-8109,2025-12-01 04:40:22,"Hi, I need help with charged twice for subscription. I need this resolved soon.",Billing,Phone,Low,Free,Product B
+TKT-100300,CUST-1195,2025-12-01 18:43:22,"Hello, I'm having an issue with missing parts in package. This has been happening for the past few days. This is not working!",Product,Email,Medium,Basic,Product B
+TKT-100330,CUST-1202,2025-12-01 20:29:45,I need assistance with product not as described. I need this resolved soon.,Product,Web Form,Low,Enterprise,Product B
+TKT-100236,CUST-6315,2025-12-01 23:10:41,"Hi, I need help with quality issues with material. Can you please look into this? This is emergency!",Product,Web Form,Low,Premium,Product D
+TKT-100480,CUST-5355,2025-12-02 03:38:55,There's an issue with want to change email address. This has been happening for the past few days.,Account,Email,Low,Premium,Product A
+TKT-100174,CUST-5061,2025-12-02 19:20:09,I'm experiencing a problem with wrong item received. I need this resolved soon.,Delivery,Chat,Low,Free,Product C
+TKT-100373,CUST-1889,2025-12-02 22:16:45,I'm experiencing a problem with restocking fee too high. This is affecting my work.,Refund,Chat,Critical,Premium,Service X
+TKT-100052,CUST-8564,2025-12-03 07:10:33,"Hello, I'm having an issue with payment method declined. This is the second time this has happened.",Billing,Chat,Low,Premium,Product D
+TKT-100491,CUST-7436,2025-12-03 09:25:35,"Hello, I'm having an issue with delivery to wrong address. This has been happening for the past few days.",Delivery,Web Form,Low,Basic,Product D
+TKT-100227,CUST-1519,2025-12-03 09:48:43,There's an issue with refund taking too long. This is the second time this has happened. I'm really frustrated about this.,Refund,Email,Critical,Enterprise,Product D
+TKT-100095,CUST-9138,2025-12-03 13:48:57,I need assistance with restocking fee too high. I've already contacted support before about this.,Refund,Phone,Medium,Premium,Product B
+TKT-100150,CUST-9618,2025-12-04 10:16:11,I'm experiencing a problem with cannot login to account. This has been happening for the past few days.,Technical,Email,Critical,Enterprise,Product A
+TKT-100189,CUST-6654,2025-12-04 22:25:21,Can someone help me with quality issues with material. This is the second time this has happened.,Product,Chat,High,Free,Product C
+TKT-100417,CUST-3406,2025-12-04 22:27:52,"Hi, I need help with features not loading properly. Can you please look into this?",Technical,Email,Medium,Premium,Product B
+TKT-100117,CUST-1430,2025-12-05 01:06:53,I'm writing because want to change email address. This is the second time this has happened.,Account,Phone,Low,Basic,Product C
+TKT-100194,CUST-7846,2025-12-05 01:15:31,"Hi, I need help with warranty claim process. I've tried multiple times but no luck.",Product,Chat,Low,Enterprise,Product D
+TKT-100116,CUST-2773,2025-12-05 17:36:38,"Hello, I'm having an issue with features not loading properly. This is the second time this has happened.",Technical,Phone,High,Free,Product C
+TKT-100183,CUST-5350,2025-12-06 18:35:45,I need assistance with restocking fee too high. I need this resolved soon.,Refund,Chat,Low,Enterprise,Product B
+TKT-100009,CUST-9085,2025-12-06 22:24:51,"Hello, I'm having an issue with quality issues with material. Can you please look into this?",Product,Email,Low,Free,Product B
+TKT-100060,CUST-8613,2025-12-08 08:29:35,Can someone help me with package marked delivered but not received. I've tried multiple times but no luck. I'm really disappointed about this.,Delivery,Web Form,High,Free,Product D
+TKT-100338,CUST-3679,2025-12-08 15:16:15,I'm experiencing a problem with API returning errors. This is affecting my work.,Technical,Phone,Low,Premium,Product A
+TKT-100420,CUST-1271,2025-12-09 02:01:36,"Hello, I'm having an issue with refund not received. This has been happening for the past few days.",Billing,Chat,Critical,Basic,Service X
+TKT-100401,CUST-6633,2025-12-09 02:33:06,I'm experiencing a problem with instructions unclear or missing. I've tried multiple times but no luck.,Product,Chat,Critical,Basic,Product B
+TKT-100461,CUST-3675,2025-12-09 04:03:32,Can someone help me with subscription auto-renewed unwanted. I've tried multiple times but no luck. I'm really unacceptable about this.,Billing,Web Form,Critical,Basic,Product C
+TKT-100458,CUST-9576,2025-12-09 06:33:59,I need assistance with restocking fee too high. I need this resolved soon.,Refund,Phone,High,Enterprise,Service X
+TKT-100133,CUST-6626,2025-12-10 14:37:40,Can someone help me with missing parts in package. This has been happening for the past few days.,Product,Email,Medium,Free,Product B
+TKT-100112,CUST-4522,2025-12-10 16:26:47,There's an issue with payment method declined. This is the second time this has happened.,Billing,Web Form,Critical,Basic,Product D
+TKT-100479,CUST-9051,2025-12-10 18:43:20,"Hello, I'm having an issue with charged twice for subscription. I've already contacted support before about this.",Billing,Email,Critical,Free,Product C
+TKT-100181,CUST-3662,2025-12-10 20:02:53,I need assistance with missing parts in package. This is affecting my work.,Product,Web Form,High,Premium,Service X
+TKT-100173,CUST-6658,2025-12-10 21:46:30,There's an issue with package marked delivered but not received. This is the second time this has happened.,Delivery,Web Form,Medium,Premium,Service X
+TKT-100056,CUST-1420,2025-12-11 00:18:42,"Hi, I need help with restocking fee too high. Can you please look into this? I'm really disappointed about this.",Refund,Phone,Critical,Enterprise,Service Y
+TKT-100141,CUST-4178,2025-12-11 14:46:29,I'm writing because return label not working. I need this resolved soon. This is not working!,Refund,Phone,Critical,Enterprise,Product C
+TKT-100452,CUST-6629,2025-12-11 22:10:57,"Hi, I need help with want to change email address. I've tried multiple times but no luck.",Account,Chat,High,Premium,Service Y
+TKT-100389,CUST-6866,2025-12-12 12:25:55,I need assistance with partial refund received. Can you please look into this?,Refund,Email,High,Basic,Product B
+TKT-100494,CUST-2467,2025-12-12 14:06:32,Can someone help me with refund to wrong payment method. This is affecting my work. This is not working!,Refund,Email,Critical,Enterprise,Product C
+TKT-100224,CUST-1257,2025-12-12 22:03:03,There's an issue with refund to wrong payment method. I need this resolved soon.,Refund,Email,Critical,Free,Product A
+TKT-100404,CUST-6008,2025-12-13 05:18:39,I'm experiencing a problem with mobile app not syncing. Can you please look into this?,Technical,Chat,High,Premium,Product D
+TKT-100381,CUST-3913,2025-12-14 01:24:24,There's an issue with missing items from order. I've tried multiple times but no luck.,Delivery,Phone,Low,Premium,Service X
+TKT-100170,CUST-1464,2025-12-14 02:45:10,I need assistance with product not as described. This has been happening for the past few days.,Product,Email,Low,Premium,Service Y
+TKT-100239,CUST-6443,2025-12-14 05:08:53,"Hi, I need help with instructions unclear or missing. I need this resolved soon. This is immediately!",Product,Web Form,High,Enterprise,Product C
+TKT-100089,CUST-4846,2025-12-14 12:46:30,I need assistance with want to change email address. This has been happening for the past few days.,Account,Phone,Medium,Free,Product D
+TKT-100010,CUST-8668,2025-12-14 15:34:10,Can someone help me with return label not working. I need this resolved soon.,Refund,Phone,Low,Free,Service Y
+TKT-100395,CUST-8130,2025-12-15 00:30:19,"Hello, I'm having an issue with integration not working. Can you please look into this?",Technical,Email,Medium,Free,Product D
+TKT-100252,CUST-4232,2025-12-15 01:34:02,There's an issue with integration not working. Can you please look into this?,Technical,Web Form,Critical,Enterprise,Product A
+TKT-100397,CUST-2036,2025-12-15 03:32:28,"Hi, I need help with email not receiving notifications. I've already contacted support before about this. I'm really terrible about this.",Account,Email,Low,Premium,Service X
+TKT-100017,CUST-2160,2025-12-15 07:22:02,I'm writing because cannot login to account. This is affecting my work.,Technical,Chat,High,Enterprise,Product B
+TKT-100119,CUST-7878,2025-12-15 16:18:20,"Hello, I'm having an issue with payment method declined. I need this resolved soon.",Billing,Web Form,High,Basic,Product C
+TKT-100128,CUST-3419,2025-12-15 16:31:59,There's an issue with instructions unclear or missing. This is the second time this has happened. I'm really disappointed about this.,Product,Chat,Low,Basic,Product C
+TKT-100030,CUST-8239,2025-12-15 21:06:41,I'm experiencing a problem with package not delivered on time. I've tried multiple times but no luck. I'm really awful about this.,Delivery,Web Form,Low,Free,Product A
+TKT-100059,CUST-9817,2025-12-16 02:43:49,There's an issue with cannot delete account. This is affecting my work. This is emergency!,Account,Web Form,Critical,Enterprise,Service Y
+TKT-100151,CUST-2106,2025-12-16 03:06:01,I'm experiencing a problem with damaged product arrived. This is the second time this has happened.,Delivery,Phone,Medium,Free,Service X
+TKT-100096,CUST-3240,2025-12-16 07:11:31,There's an issue with product not as described. This is the second time this has happened.,Product,Email,Low,Premium,Product D
+TKT-100469,CUST-4568,2025-12-16 15:24:33,I'm writing because mobile app not syncing. I've already contacted support before about this.,Technical,Email,Medium,Enterprise,Product C
+TKT-100000,CUST-9935,2025-12-16 19:19:35,There's an issue with invoice incorrect amount. I've already contacted support before about this. This is urgent!,Billing,Email,Critical,Free,Product A
+TKT-100431,CUST-1550,2025-12-16 23:03:40,I'm experiencing a problem with cannot reset password. I've tried multiple times but no luck. I'm really terrible about this.,Account,Chat,Medium,Free,Product C
+TKT-100282,CUST-3545,2025-12-17 00:07:25,I need assistance with instructions unclear or missing. I've tried multiple times but no luck. This is urgent!,Product,Phone,Critical,Free,Product C
+TKT-100477,CUST-3126,2025-12-17 01:42:27,"Hi, I need help with payment method declined. This has been happening for the past few days.",Billing,Chat,Low,Basic,Product A
+TKT-100278,CUST-5942,2025-12-17 17:45:48,There's an issue with error message when saving. This has been happening for the past few days.,Technical,Chat,Medium,Enterprise,Product C
+TKT-100279,CUST-2163,2025-12-18 00:27:22,"Hello, I'm having an issue with API returning errors. I need this resolved soon.",Technical,Email,High,Premium,Product B
+TKT-100342,CUST-6327,2025-12-18 05:31:14,I'm experiencing a problem with product not as described. This is affecting my work. This is urgent!,Product,Phone,High,Premium,Product B
+TKT-100146,CUST-3273,2025-12-18 16:49:58,There's an issue with features not loading properly. This is the second time this has happened. I'm really unacceptable about this.,Technical,Web Form,Critical,Free,Product A
+TKT-100276,CUST-3480,2025-12-18 17:05:24,There's an issue with email not receiving notifications. I've already contacted support before about this.,Account,Web Form,Critical,Basic,Product A
+TKT-100490,CUST-1886,2025-12-19 05:00:31,There's an issue with product defective out of box. I need this resolved soon.,Product,Phone,Low,Premium,Service X
+TKT-100368,CUST-6542,2025-12-19 14:29:18,There's an issue with refund not received. This is the second time this has happened.,Billing,Email,Critical,Basic,Product D
+TKT-100273,CUST-9510,2025-12-19 16:41:56,I need assistance with want to return product. I've tried multiple times but no luck. This is critical!,Refund,Web Form,Low,Free,Service Y
+TKT-100308,CUST-4594,2025-12-19 22:39:25,There's an issue with delivery to wrong address. This has been happening for the past few days.,Delivery,Web Form,High,Basic,Product B
+TKT-100019,CUST-1887,2025-12-20 07:48:29,I'm writing because tracking number not working. I've already contacted support before about this.,Delivery,Email,Low,Enterprise,Service Y
+TKT-100136,CUST-7421,2025-12-21 03:48:25,There's an issue with damaged product arrived. I've already contacted support before about this.,Delivery,Chat,Low,Premium,Service X
+TKT-100314,CUST-3086,2025-12-21 12:05:58,There's an issue with integration not working. This is affecting my work.,Technical,Chat,Low,Enterprise,Service X
+TKT-100468,CUST-3598,2025-12-21 14:09:24,I'm experiencing a problem with API returning errors. This is affecting my work.,Technical,Email,Low,Premium,Product D
+TKT-100006,CUST-3803,2025-12-22 08:09:34,I need assistance with restocking fee too high. I've already contacted support before about this.,Refund,Chat,Medium,Enterprise,Product D
+TKT-100103,CUST-3531,2025-12-22 09:30:11,Can someone help me with restocking fee too high. Can you please look into this?,Refund,Web Form,Low,Enterprise,Service X
+TKT-100361,CUST-2659,2025-12-22 14:27:28,"Hi, I need help with tax calculation wrong. I've already contacted support before about this. This is emergency!",Billing,Phone,Medium,Enterprise,Product C
+TKT-100135,CUST-5128,2025-12-23 21:50:27,Can someone help me with subscription auto-renewed unwanted. This is affecting my work. This is broken!,Billing,Chat,High,Free,Service X
+TKT-100114,CUST-7105,2025-12-25 08:04:10,"Hi, I need help with cannot reset password. I've already contacted support before about this. This is asap!",Account,Chat,Low,Premium,Service Y
+TKT-100327,CUST-2293,2025-12-25 09:08:10,Can someone help me with two-factor authentication issues. This is affecting my work.,Account,Web Form,Low,Basic,Product A
+TKT-100384,CUST-8415,2025-12-26 00:22:20,"Hi, I need help with wrong item received. This is affecting my work.",Delivery,Email,Medium,Enterprise,Product B
+TKT-100078,CUST-1601,2025-12-26 13:40:22,I'm writing because missing items from order. This is the second time this has happened.,Delivery,Web Form,Low,Premium,Product C
+TKT-100191,CUST-4972,2025-12-27 00:27:45,I need assistance with cannot login to account. I've tried multiple times but no luck.,Technical,Email,Medium,Basic,Product A
+TKT-100043,CUST-2746,2025-12-27 01:15:11,I'm writing because profile information not updating. This is the second time this has happened. I'm really frustrated about this.,Account,Web Form,Medium,Basic,Service Y
+TKT-100039,CUST-3851,2025-12-27 04:56:35,There's an issue with missing parts in package. I've already contacted support before about this. I'm really unacceptable about this.,Product,Phone,Critical,Free,Product C
+TKT-100283,CUST-1901,2025-12-27 11:16:57,"Hi, I need help with refund taking too long. I need this resolved soon. This is asap!",Refund,Phone,Medium,Free,Product A
+TKT-100118,CUST-3347,2025-12-28 04:39:41,"Hello, I'm having an issue with damaged product arrived. This is the second time this has happened.",Delivery,Web Form,Low,Basic,Service Y
+TKT-100064,CUST-9779,2025-12-28 05:20:09,I'm experiencing a problem with damaged product arrived. This has been happening for the past few days. This is critical!,Delivery,Chat,Medium,Basic,Service Y
+TKT-100433,CUST-6703,2025-12-28 08:38:57,I need assistance with invoice incorrect amount. Can you please look into this?,Billing,Phone,High,Basic,Service X
+TKT-100312,CUST-2188,2025-12-28 13:17:27,I'm writing because cannot login to account. This is affecting my work.,Technical,Phone,Critical,Free,Product C
+TKT-100253,CUST-2025,2025-12-28 13:27:38,I'm writing because error message when saving. This is the second time this has happened.,Technical,Email,Medium,Premium,Product C
+TKT-100134,CUST-7108,2025-12-29 01:55:42,"Hello, I'm having an issue with two-factor authentication issues. This is affecting my work.",Account,Phone,Critical,Enterprise,Product C
+TKT-100284,CUST-5247,2025-12-29 03:08:00,I need assistance with want to return product. This is the second time this has happened. I'm really terrible about this.,Refund,Chat,High,Basic,Service Y
+TKT-100299,CUST-5262,2025-12-29 17:12:09,There's an issue with tracking number not working. This is affecting my work.,Delivery,Chat,Low,Enterprise,Product D
+TKT-100286,CUST-3734,2025-12-29 22:14:20,"Hi, I need help with warranty claim process. I need this resolved soon. This is immediately!",Product,Phone,Medium,Premium,Product A
+TKT-100153,CUST-6080,2025-12-30 14:19:02,"Hi, I need help with cannot reset password. This is affecting my work. This is critical!",Account,Web Form,Critical,Premium,Product A
+TKT-100026,CUST-5915,2025-12-30 14:57:04,There's an issue with error message when saving. I've already contacted support before about this.,Technical,Web Form,High,Free,Product A
+TKT-100396,CUST-4729,2025-12-30 17:52:25,I need assistance with payment method declined. This has been happening for the past few days. This is immediately!,Billing,Phone,Critical,Enterprise,Product D
+TKT-100062,CUST-9041,2025-12-31 07:43:30,There's an issue with two-factor authentication issues. I need this resolved soon.,Account,Web Form,Low,Free,Product C
+TKT-100476,CUST-9151,2025-12-31 11:44:17,"Hello, I'm having an issue with refund to wrong payment method. Can you please look into this?",Refund,Chat,High,Premium,Product D
+TKT-100489,CUST-8115,2026-01-02 06:00:45,I'm experiencing a problem with quality issues with material. This is affecting my work. This is not working!,Product,Web Form,Low,Basic,Service Y
+TKT-100292,CUST-7718,2026-01-02 13:14:39,"Hello, I'm having an issue with replacement part needed. This has been happening for the past few days.",Product,Email,Medium,Premium,Service Y
+TKT-100406,CUST-8978,2026-01-02 15:26:42,I'm writing because profile information not updating. This is affecting my work.,Account,Email,Medium,Free,Product C
+TKT-100353,CUST-9246,2026-01-02 18:10:07,"Hi, I need help with mobile app not syncing. I need this resolved soon.",Technical,Phone,Medium,Free,Product A
+TKT-100356,CUST-7147,2026-01-02 20:12:49,I'm writing because instructions unclear or missing. This has been happening for the past few days. This is broken!,Product,Phone,Low,Free,Service Y
+TKT-100241,CUST-6339,2026-01-02 23:39:35,I'm writing because return label not working. I've tried multiple times but no luck.,Refund,Web Form,High,Enterprise,Product C
+TKT-100152,CUST-8612,2026-01-03 01:00:37,"Hello, I'm having an issue with wrong item received. This is the second time this has happened. I'm really awful about this.",Delivery,Web Form,Medium,Basic,Product A
+TKT-100386,CUST-7025,2026-01-04 13:39:25,There's an issue with API returning errors. I've already contacted support before about this.,Technical,Chat,Medium,Premium,Product D
+TKT-100347,CUST-5269,2026-01-04 15:59:22,I'm experiencing a problem with tracking number not working. This is affecting my work.,Delivery,Phone,Critical,Free,Product D
+TKT-100372,CUST-9996,2026-01-04 20:26:06,"Hi, I need help with payment method declined. Can you please look into this?",Billing,Email,Low,Premium,Service X
+TKT-100074,CUST-5982,2026-01-05 12:30:00,Can someone help me with product not as described. I've already contacted support before about this.,Product,Web Form,High,Enterprise,Product D
+TKT-100054,CUST-1508,2026-01-05 12:47:15,"Hi, I need help with subscription auto-renewed unwanted. This is the second time this has happened. This is broken!",Billing,Chat,Medium,Free,Service X
+TKT-100154,CUST-6438,2026-01-06 07:13:10,I'm writing because error message when saving. This has been happening for the past few days.,Technical,Phone,Low,Premium,Product D
+TKT-100199,CUST-5285,2026-01-06 09:13:53,I need assistance with damaged product arrived. This has been happening for the past few days.,Delivery,Phone,Medium,Free,Service Y
+TKT-100099,CUST-6992,2026-01-06 10:56:13,I'm writing because integration not working. Can you please look into this?,Technical,Email,Critical,Free,Product C
+TKT-100202,CUST-2838,2026-01-06 13:28:39,I'm experiencing a problem with tax calculation wrong. This has been happening for the past few days.,Billing,Email,Medium,Basic,Product B
+TKT-100436,CUST-1448,2026-01-07 01:17:14,I need assistance with cannot delete account. This is the second time this has happened.,Account,Web Form,Low,Premium,Product A
+TKT-100270,CUST-1266,2026-01-07 21:56:24,I'm writing because payment method declined. I need this resolved soon.,Billing,Email,Medium,Enterprise,Product D
+TKT-100161,CUST-5566,2026-01-08 01:31:39,Can someone help me with missing parts in package. This is affecting my work.,Product,Chat,Low,Free,Service Y
+TKT-100424,CUST-5223,2026-01-08 13:30:47,I need assistance with invoice incorrect amount. I need this resolved soon.,Billing,Chat,Low,Free,Service X
+TKT-100374,CUST-8414,2026-01-08 20:14:29,I'm experiencing a problem with quality issues with material. I've already contacted support before about this.,Product,Email,Low,Basic,Product A
+TKT-100187,CUST-8932,2026-01-09 15:59:54,There's an issue with restocking fee too high. This is affecting my work.,Refund,Chat,Medium,Premium,Service X
+TKT-100248,CUST-8909,2026-01-09 17:31:16,I'm experiencing a problem with warranty claim process. This has been happening for the past few days.,Product,Email,High,Enterprise,Product A
+TKT-100263,CUST-6744,2026-01-10 07:43:53,I need assistance with slow performance issues. I've already contacted support before about this.,Technical,Web Form,Medium,Basic,Product B
+TKT-100109,CUST-9543,2026-01-10 18:02:10,"Hi, I need help with instructions unclear or missing. I've already contacted support before about this. I'm really terrible about this.",Product,Phone,Critical,Free,Product A
+TKT-100142,CUST-4271,2026-01-10 18:29:54,"Hello, I'm having an issue with instructions unclear or missing. This is the second time this has happened.",Product,Chat,High,Free,Service Y
+TKT-100160,CUST-3513,2026-01-10 20:11:20,I need assistance with damaged product arrived. This has been happening for the past few days.,Delivery,Web Form,High,Premium,Product D
+TKT-100285,CUST-6488,2026-01-11 07:27:29,I'm writing because missing items from order. This has been happening for the past few days.,Delivery,Web Form,High,Free,Product C
+TKT-100306,CUST-3946,2026-01-11 08:48:08,Can someone help me with delivery to wrong address. This is affecting my work.,Delivery,Email,High,Basic,Product A
+TKT-100427,CUST-5157,2026-01-11 18:58:07,I need assistance with account locked after failed login. I need this resolved soon.,Account,Phone,High,Enterprise,Service Y
+TKT-100351,CUST-7609,2026-01-12 01:06:49,There's an issue with unexpected charge on credit card. I need this resolved soon.,Billing,Web Form,Critical,Enterprise,Product A
+TKT-100106,CUST-4394,2026-01-12 07:57:19,"Hello, I'm having an issue with features not loading properly. This has been happening for the past few days.",Technical,Chat,Medium,Premium,Product B
+TKT-100107,CUST-3858,2026-01-12 15:56:37,I need assistance with product defective out of box. This is affecting my work. I'm really angry about this.,Product,Email,Low,Basic,Product A
+TKT-100165,CUST-3126,2026-01-13 06:43:35,Can someone help me with API returning errors. This is the second time this has happened. I'm really disappointed about this.,Technical,Email,Low,Premium,Product D
+TKT-100222,CUST-9882,2026-01-13 19:17:48,Can someone help me with features not loading properly. I've tried multiple times but no luck.,Technical,Email,Low,Free,Service Y
+TKT-100251,CUST-6422,2026-01-14 17:13:09,I need assistance with refund taking too long. I've tried multiple times but no luck.,Refund,Web Form,Critical,Basic,Product D
+TKT-100429,CUST-7375,2026-01-14 20:41:27,"Hi, I need help with warranty claim process. I've tried multiple times but no luck.",Product,Email,Low,Basic,Product D
+TKT-100159,CUST-8179,2026-01-14 21:44:14,"Hello, I'm having an issue with refund taking too long. This is the second time this has happened.",Refund,Email,Medium,Free,Product B
+TKT-100172,CUST-7809,2026-01-15 13:15:19,"Hello, I'm having an issue with return label not working. I need this resolved soon. This is urgent!",Refund,Web Form,Critical,Basic,Product C
+TKT-100042,CUST-2193,2026-01-15 21:21:15,I'm writing because app crashes on startup. This is the second time this has happened. I'm really terrible about this.,Technical,Web Form,Critical,Basic,Service Y
+TKT-100021,CUST-4872,2026-01-16 03:39:31,"Hi, I need help with product defective out of box. This is the second time this has happened. I'm really frustrated about this.",Product,Chat,Critical,Enterprise,Product D
+TKT-100264,CUST-3758,2026-01-17 03:27:06,I need assistance with subscription auto-renewed unwanted. Can you please look into this?,Billing,Phone,High,Premium,Service X
+TKT-100045,CUST-3607,2026-01-17 09:49:50,I need assistance with quality issues with material. I need this resolved soon.,Product,Web Form,Critical,Premium,Product B
+TKT-100460,CUST-8816,2026-01-17 11:26:36,Can someone help me with mobile app not syncing. This is the second time this has happened. I'm really awful about this.,Technical,Phone,Low,Enterprise,Product C
+TKT-100414,CUST-9222,2026-01-17 19:27:55,I need assistance with tracking number not working. This has been happening for the past few days.,Delivery,Chat,Critical,Basic,Product B
+TKT-100076,CUST-9502,2026-01-18 13:32:33,"Hello, I'm having an issue with product defective out of box. I need this resolved soon.",Product,Web Form,High,Basic,Service X
+TKT-100376,CUST-4209,2026-01-18 15:20:44,I'm experiencing a problem with restocking fee too high. Can you please look into this?,Refund,Chat,Low,Enterprise,Product B
+TKT-100261,CUST-8231,2026-01-18 21:35:04,"Hi, I need help with delivery to wrong address. This is the second time this has happened.",Delivery,Chat,Critical,Free,Service Y
+TKT-100301,CUST-5240,2026-01-18 23:16:18,There's an issue with missing items from order. This has been happening for the past few days.,Delivery,Email,Low,Free,Product B
+TKT-100269,CUST-9967,2026-01-19 04:20:40,I'm experiencing a problem with email not receiving notifications. This is affecting my work.,Account,Chat,Critical,Premium,Service Y
+TKT-100182,CUST-1272,2026-01-19 19:12:46,I'm experiencing a problem with quality issues with material. I need this resolved soon.,Product,Phone,High,Free,Product D
+TKT-100262,CUST-5305,2026-01-20 02:54:29,"Hi, I need help with error message when saving. I need this resolved soon.",Technical,Phone,Low,Enterprise,Product A
+TKT-100243,CUST-5961,2026-01-20 08:08:24,"Hello, I'm having an issue with promo code not applied. I've already contacted support before about this.",Billing,Chat,High,Basic,Service Y
+TKT-100140,CUST-1715,2026-01-20 08:24:48,There's an issue with replacement part needed. I need this resolved soon.,Product,Web Form,High,Basic,Product D
+TKT-100132,CUST-8581,2026-01-20 09:55:55,I need assistance with payment method declined. I need this resolved soon.,Billing,Email,Critical,Basic,Product C
+TKT-100083,CUST-4122,2026-01-20 23:00:36,"Hello, I'm having an issue with account locked after failed login. I need this resolved soon.",Account,Chat,Low,Premium,Product D
+TKT-100365,CUST-3732,2026-01-21 03:15:45,There's an issue with return label not working. This is the second time this has happened.,Refund,Email,Medium,Free,Product B
+TKT-100449,CUST-6903,2026-01-21 17:21:37,I'm experiencing a problem with tax calculation wrong. This is affecting my work.,Billing,Phone,High,Free,Product D
+TKT-100293,CUST-2703,2026-01-21 19:57:44,There's an issue with subscription auto-renewed unwanted. This is affecting my work. I'm really awful about this.,Billing,Chat,Medium,Enterprise,Product D
+TKT-100046,CUST-4919,2026-01-21 21:12:37,Can someone help me with package marked delivered but not received. I've already contacted support before about this.,Delivery,Phone,Critical,Free,Service Y
+TKT-100139,CUST-3147,2026-01-22 16:56:00,I'm writing because charged twice for subscription. Can you please look into this?,Billing,Web Form,Medium,Basic,Product B
+TKT-100061,CUST-5526,2026-01-23 21:07:08,I'm experiencing a problem with API returning errors. Can you please look into this? I'm really disappointed about this.,Technical,Email,Medium,Free,Product B
+TKT-100341,CUST-7506,2026-01-23 23:51:17,I'm writing because email not receiving notifications. Can you please look into this? This is emergency!,Account,Email,Low,Premium,Service X
+TKT-100463,CUST-9060,2026-01-24 08:02:42,Can someone help me with features not loading properly. This is affecting my work. I'm really terrible about this.,Technical,Chat,High,Free,Product B
+TKT-100454,CUST-2311,2026-01-24 11:11:52,There's an issue with slow performance issues. I've already contacted support before about this.,Technical,Chat,Medium,Enterprise,Product A
+TKT-100486,CUST-3534,2026-01-24 17:42:53,I need assistance with invoice incorrect amount. Can you please look into this?,Billing,Email,Low,Enterprise,Product C
+TKT-100086,CUST-7246,2026-01-24 18:58:43,Can someone help me with cannot reset password. I've already contacted support before about this.,Account,Web Form,Medium,Enterprise,Product A
+TKT-100334,CUST-5923,2026-01-25 04:34:37,"Hello, I'm having an issue with want to return product. I've tried multiple times but no luck.",Refund,Web Form,High,Premium,Service Y
+TKT-100407,CUST-1305,2026-01-25 06:38:44,There's an issue with slow performance issues. This has been happening for the past few days. I'm really frustrated about this.,Technical,Email,Critical,Basic,Product A
+TKT-100070,CUST-2625,2026-01-25 12:55:21,"Hi, I need help with email not receiving notifications. Can you please look into this?",Account,Chat,Medium,Premium,Service Y
+TKT-100220,CUST-7841,2026-01-26 05:50:57,I need assistance with refund taking too long. I've already contacted support before about this. I'm really terrible about this.,Refund,Phone,Medium,Basic,Product C
+TKT-100266,CUST-7434,2026-01-26 14:27:47,I'm writing because features not loading properly. I've tried multiple times but no luck.,Technical,Web Form,Medium,Premium,Service Y
+TKT-100067,CUST-8690,2026-01-27 00:45:18,I need assistance with cannot reset password. This is affecting my work.,Account,Web Form,Critical,Premium,Product B
+TKT-100370,CUST-1824,2026-01-27 04:52:41,I'm experiencing a problem with tax calculation wrong. This is affecting my work.,Billing,Chat,Critical,Enterprise,Product B
+TKT-100158,CUST-1939,2026-01-27 07:33:47,I'm experiencing a problem with delivery to wrong address. I've already contacted support before about this.,Delivery,Email,Critical,Premium,Service X
+TKT-100092,CUST-5161,2026-01-27 11:01:47,"Hello, I'm having an issue with warranty claim process. I need this resolved soon. I'm really angry about this.",Product,Web Form,High,Free,Product D
+TKT-100012,CUST-5889,2026-01-28 08:41:14,I need assistance with delivery to wrong address. This has been happening for the past few days.,Delivery,Chat,Medium,Premium,Product B
+TKT-100367,CUST-7738,2026-01-29 02:23:16,Can someone help me with refund taking too long. This has been happening for the past few days.,Refund,Web Form,Low,Free,Product C
+TKT-100033,CUST-7745,2026-01-29 08:43:14,I'm experiencing a problem with unexpected charge on credit card. This is the second time this has happened.,Billing,Chat,High,Basic,Service Y
+TKT-100318,CUST-4695,2026-01-29 10:15:07,I'm writing because delivery to wrong address. I need this resolved soon.,Delivery,Chat,Critical,Free,Product A
+TKT-100304,CUST-8848,2026-01-29 17:23:36,Can someone help me with refund not received. I need this resolved soon.,Billing,Email,Low,Premium,Product D
+TKT-100011,CUST-8123,2026-01-29 23:17:19,"Hi, I need help with package marked delivered but not received. This is affecting my work.",Delivery,Chat,Critical,Free,Service Y
+TKT-100325,CUST-8619,2026-01-30 02:19:52,I'm experiencing a problem with wrong item received. I need this resolved soon.,Delivery,Phone,Medium,Premium,Service X
+TKT-100400,CUST-3316,2026-01-30 08:44:53,"Hi, I need help with restocking fee too high. Can you please look into this?",Refund,Email,Low,Free,Service X
+TKT-100155,CUST-4060,2026-01-30 19:35:04,Can someone help me with return label not working. This is affecting my work.,Refund,Web Form,Critical,Premium,Service X
+TKT-100287,CUST-1201,2026-01-31 16:14:32,"Hi, I need help with restocking fee too high. This is the second time this has happened. I'm really frustrated about this.",Refund,Chat,Low,Enterprise,Product C
+TKT-100439,CUST-9175,2026-01-31 16:26:56,There's an issue with wrong item received. I've tried multiple times but no luck.,Delivery,Chat,Medium,Basic,Product C
+TKT-100245,CUST-5067,2026-01-31 21:34:09,"Hi, I need help with instructions unclear or missing. This has been happening for the past few days.",Product,Phone,Medium,Free,Service X
+TKT-100307,CUST-6856,2026-01-31 22:42:23,Can someone help me with package not delivered on time. Can you please look into this?,Delivery,Chat,Medium,Free,Product B
+TKT-100277,CUST-8035,2026-02-01 02:17:03,Can someone help me with cannot login to account. This is affecting my work.,Technical,Phone,Medium,Basic,Product C
+TKT-100016,CUST-4770,2026-02-01 15:20:08,I need assistance with cannot reset password. Can you please look into this? This is urgent!,Account,Chat,Low,Free,Service Y
+TKT-100093,CUST-7951,2026-02-01 22:13:38,I need assistance with refund to wrong payment method. This is affecting my work. This is immediately!,Refund,Phone,Critical,Premium,Product B
+TKT-100302,CUST-8552,2026-02-02 03:47:08,"Hi, I need help with want to change email address. This has been happening for the past few days. I'm really disappointed about this.",Account,Email,Medium,Enterprise,Service Y
+TKT-100392,CUST-2857,2026-02-02 12:25:38,Can someone help me with instructions unclear or missing. This is the second time this has happened. This is immediately!,Product,Web Form,High,Premium,Product A
+TKT-100393,CUST-1718,2026-02-03 17:58:26,Can someone help me with delivery to wrong address. I need this resolved soon.,Delivery,Phone,Medium,Premium,Service X
+TKT-100289,CUST-2956,2026-02-04 13:29:43,I need assistance with damaged product arrived. This is affecting my work.,Delivery,Email,Medium,Basic,Service X
+TKT-100163,CUST-8292,2026-02-04 16:11:29,"Hello, I'm having an issue with account locked after failed login. I've already contacted support before about this. I'm really unacceptable about this.",Account,Email,High,Premium,Service Y
+TKT-100488,CUST-3832,2026-02-04 22:15:07,I'm writing because want to return product. I need this resolved soon.,Refund,Web Form,Low,Premium,Product A
+TKT-100024,CUST-2113,2026-02-05 04:45:18,"Hi, I need help with missing parts in package. Can you please look into this? I'm really angry about this.",Product,Chat,Critical,Free,Service X
+TKT-100038,CUST-5920,2026-02-05 10:43:58,"Hi, I need help with product not as described. I've already contacted support before about this.",Product,Phone,Critical,Premium,Product D
+TKT-100130,CUST-6179,2026-02-06 01:20:56,I need assistance with warranty claim process. This is affecting my work.,Product,Chat,Critical,Free,Product D
+TKT-100430,CUST-7296,2026-02-06 08:43:32,I need assistance with cannot reset password. This has been happening for the past few days. This is urgent!,Account,Web Form,High,Free,Product B
+TKT-100296,CUST-8417,2026-02-06 09:30:14,I'm experiencing a problem with cannot delete account. This is affecting my work.,Account,Phone,Medium,Free,Product B
+TKT-100497,CUST-5999,2026-02-06 12:28:30,I'm writing because package not delivered on time. This has been happening for the past few days.,Delivery,Web Form,Critical,Free,Product C
+TKT-100456,CUST-3150,2026-02-07 09:28:10,There's an issue with email not receiving notifications. I've tried multiple times but no luck. I'm really unacceptable about this.,Account,Chat,Low,Free,Service Y
+TKT-100193,CUST-6262,2026-02-08 00:20:28,I'm writing because profile information not updating. This is affecting my work.,Account,Phone,Low,Free,Service Y
+TKT-100213,CUST-7821,2026-02-09 04:39:21,I'm experiencing a problem with return label not working. I've already contacted support before about this.,Refund,Web Form,Medium,Premium,Product D
+TKT-100320,CUST-1507,2026-02-09 05:43:34,I need assistance with subscription auto-renewed unwanted. I need this resolved soon.,Billing,Web Form,Medium,Enterprise,Product B
+TKT-100481,CUST-9621,2026-02-09 17:41:23,"Hello, I'm having an issue with product defective out of box. I've tried multiple times but no luck. This is asap!",Product,Chat,Medium,Enterprise,Service Y
+TKT-100031,CUST-3426,2026-02-09 19:37:22,I'm writing because refund taking too long. This is affecting my work.,Refund,Web Form,Medium,Free,Product C
+TKT-100175,CUST-6123,2026-02-09 21:03:55,I'm writing because quality issues with material. This is affecting my work. I'm really angry about this.,Product,Chat,Medium,Enterprise,Service X
+TKT-100435,CUST-5098,2026-02-10 04:06:34,I'm writing because product not as described. This is the second time this has happened.,Product,Web Form,Critical,Enterprise,Product B
+TKT-100328,CUST-4157,2026-02-10 13:47:00,"Hello, I'm having an issue with account locked after failed login. I've tried multiple times but no luck.",Account,Chat,Low,Enterprise,Product A
+TKT-100190,CUST-8849,2026-02-11 15:57:28,There's an issue with subscription auto-renewed unwanted. This is affecting my work.,Billing,Chat,Medium,Premium,Service X
+TKT-100169,CUST-2530,2026-02-11 20:26:30,I need assistance with wrong item received. Can you please look into this?,Delivery,Chat,Medium,Basic,Service Y
+TKT-100217,CUST-8846,2026-02-11 23:19:41,There's an issue with refund not received. This has been happening for the past few days.,Billing,Chat,Medium,Enterprise,Product B
+TKT-100294,CUST-7102,2026-02-12 17:19:19,Can someone help me with error message when saving. I've already contacted support before about this. I'm really terrible about this.,Technical,Web Form,Low,Free,Service X
+TKT-100230,CUST-7525,2026-02-12 18:32:58,There's an issue with missing parts in package. This is the second time this has happened.,Product,Email,High,Basic,Service X
+TKT-100434,CUST-7670,2026-02-13 01:24:34,I'm experiencing a problem with profile information not updating. I've tried multiple times but no luck.,Account,Email,Low,Premium,Product C
+TKT-100068,CUST-7565,2026-02-13 11:57:09,I'm writing because package marked delivered but not received. This has been happening for the past few days.,Delivery,Web Form,Low,Free,Product B
+TKT-100126,CUST-8155,2026-02-13 14:59:07,I'm experiencing a problem with API returning errors. This has been happening for the past few days.,Technical,Email,Medium,Enterprise,Service X
+TKT-100380,CUST-5897,2026-02-14 09:31:35,There's an issue with want to change email address. Can you please look into this? This is broken!,Account,Phone,Medium,Basic,Product B
+TKT-100467,CUST-1549,2026-02-15 03:16:05,Can someone help me with refund taking too long. I've tried multiple times but no luck.,Refund,Chat,Critical,Free,Service X
+TKT-100090,CUST-5906,2026-02-15 19:25:18,Can someone help me with restocking fee too high. I've tried multiple times but no luck.,Refund,Email,Low,Premium,Product A
+TKT-100412,CUST-5480,2026-02-16 05:09:02,I need assistance with package not delivered on time. I've already contacted support before about this.,Delivery,Phone,Medium,Enterprise,Service Y
+TKT-100290,CUST-6090,2026-02-16 08:42:38,I'm writing because cannot reset password. This is affecting my work.,Account,Phone,Low,Enterprise,Product A
+TKT-100246,CUST-8052,2026-02-16 18:11:24,I'm writing because restocking fee too high. This is affecting my work.,Refund,Email,Low,Free,Product C
+TKT-100442,CUST-3101,2026-02-16 21:35:15,I'm writing because product not as described. Can you please look into this?,Product,Email,Critical,Enterprise,Service X
+TKT-100005,CUST-6977,2026-02-17 01:09:34,Can someone help me with cannot login to account. I've already contacted support before about this.,Technical,Chat,High,Premium,Product B
+TKT-100212,CUST-3869,2026-02-17 03:12:27,I'm experiencing a problem with missing parts in package. This has been happening for the past few days.,Product,Web Form,Critical,Free,Product C
+TKT-100329,CUST-5225,2026-02-17 14:22:19,There's an issue with account locked after failed login. I've tried multiple times but no luck.,Account,Phone,Low,Free,Product D
+TKT-100419,CUST-3979,2026-02-18 09:47:39,I'm writing because account locked after failed login. Can you please look into this? This is critical!,Account,Phone,Medium,Premium,Product D
+TKT-100110,CUST-8267,2026-02-19 10:53:51,Can someone help me with profile information not updating. I've already contacted support before about this.,Account,Email,Low,Premium,Service X
+TKT-100094,CUST-5837,2026-02-19 14:17:47,I'm experiencing a problem with cannot reset password. I've already contacted support before about this. I'm really terrible about this.,Account,Email,Critical,Premium,Product A
+TKT-100166,CUST-2208,2026-02-19 15:15:11,I'm writing because return label not working. I need this resolved soon.,Refund,Chat,High,Free,Product D
